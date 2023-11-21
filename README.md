@@ -3,5 +3,5 @@ A college project that parses a GUI definition language defined in an input file
 
 # What I Learned
 * Parsing Text Files
-* Converting given code into a GUI
+* Converting given code into a Java GUI
 * Detecting Syntax errors
